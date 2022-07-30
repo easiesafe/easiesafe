@@ -4,8 +4,9 @@
 - ## ⚡ Student id: 63364659
 - ## 🔭 I'm currently studying on Faculty of Engineering.
 - ## 👨🏻‍💻 Career interest: software developer
-- ## 💻 Skill: <p align="left">
 - ## 👨🏻‍🏫 Favorite subject: Introduction to Digital Design
+- ## 💻 Skill: 
+<p align="left">
 <a href="#">
     <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
   </a>  
